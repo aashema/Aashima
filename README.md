@@ -1,2 +1,0 @@
-# Aashima
-Library Management System
